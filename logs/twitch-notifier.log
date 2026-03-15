@@ -1,0 +1,68 @@
+{"timestamp":"2026-03-15T01:12:51.271Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":true,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json"}}
+{"timestamp":"2026-03-15T01:12:51.277Z","level":"info","message":"Loaded streamers.","extra":{"count":2,"streamers":["shroud","riotgames"],"mockMode":true}}
+{"timestamp":"2026-03-15T01:12:51.279Z","level":"info","message":"Live stream detected.","extra":{"streamer":"shroud","streamId":"mock-shroud-1","title":"Рейтинговые катки без остановки"}}
+{"timestamp":"2026-03-15T01:12:51.280Z","level":"warn","message":"No delivery channels enabled. Set ENABLE_TELEGRAM or ENABLE_DISCORD to true."}
+{"timestamp":"2026-03-15T01:12:51.281Z","level":"info","message":"Live stream detected.","extra":{"streamer":"riotgames","streamId":"mock-riotgames-1","title":"Разбор обновления и новые билды"}}
+{"timestamp":"2026-03-15T01:12:54.158Z","level":"info","message":"Received SIGINT, shutting down."}
+{"timestamp":"2026-03-15T01:13:10.322Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":true,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json"}}
+{"timestamp":"2026-03-15T01:13:10.328Z","level":"info","message":"Loaded streamers.","extra":{"count":2,"streamers":["shroud","riotgames"],"mockMode":true}}
+{"timestamp":"2026-03-15T01:13:10.330Z","level":"warn","message":"No delivery channels enabled. Set ENABLE_TELEGRAM or ENABLE_DISCORD to true."}
+{"timestamp":"2026-03-15T01:13:16.696Z","level":"info","message":"Received SIGINT, shutting down."}
+{"timestamp":"2026-03-15T01:13:43.394Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":true,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json"}}
+{"timestamp":"2026-03-15T01:13:43.403Z","level":"info","message":"Loaded streamers.","extra":{"count":2,"streamers":["shroud","riotgames"],"mockMode":true}}
+{"timestamp":"2026-03-15T01:13:43.405Z","level":"warn","message":"No delivery channels enabled. Set ENABLE_TELEGRAM or ENABLE_DISCORD to true."}
+{"timestamp":"2026-03-15T01:18:22.156Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":true,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json"}}
+{"timestamp":"2026-03-15T01:18:22.161Z","level":"info","message":"Loaded streamers.","extra":{"count":2,"streamers":["shroud","riotgames"],"mockMode":true}}
+{"timestamp":"2026-03-15T01:18:22.163Z","level":"warn","message":"No delivery channels enabled. Set ENABLE_TELEGRAM or ENABLE_DISCORD to true."}
+{"timestamp":"2026-03-15T01:18:30.314Z","level":"info","message":"Received SIGINT, shutting down."}
+{"timestamp":"2026-03-15T01:18:45.686Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":true,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json"}}
+{"timestamp":"2026-03-15T01:18:45.691Z","level":"info","message":"Loaded streamers.","extra":{"count":2,"streamers":["shroud","riotgames"],"mockMode":true}}
+{"timestamp":"2026-03-15T01:18:45.693Z","level":"warn","message":"No delivery channels enabled. Set ENABLE_TELEGRAM or ENABLE_DISCORD to true."}
+{"timestamp":"2026-03-15T01:19:18.347Z","level":"info","message":"Received SIGINT, shutting down."}
+{"timestamp":"2026-03-15T01:19:23.429Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":true,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json"}}
+{"timestamp":"2026-03-15T01:19:23.436Z","level":"info","message":"Loaded streamers.","extra":{"count":2,"streamers":["shroud","riotgames"],"mockMode":true}}
+{"timestamp":"2026-03-15T01:19:23.438Z","level":"warn","message":"No delivery channels enabled. Set ENABLE_TELEGRAM or ENABLE_DISCORD to true."}
+{"timestamp":"2026-03-15T01:19:59.691Z","level":"info","message":"Received SIGINT, shutting down."}
+{"timestamp":"2026-03-15T01:20:14.612Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env.example"}}
+{"timestamp":"2026-03-15T01:20:14.616Z","level":"info","message":"Configuration is valid.","extra":{"streamers":["shroud","riotgames"],"telegramEnabled":true,"discordEnabled":true}}
+{"timestamp":"2026-03-15T01:20:52.243Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env.example"}}
+{"timestamp":"2026-03-15T01:20:53.242Z","level":"info","message":"Twitch app token refreshed."}
+{"timestamp":"2026-03-15T01:20:53.604Z","level":"info","message":"Loaded streamers.","extra":{"count":2,"streamers":["shroud","riotgames"],"mockMode":false}}
+{"timestamp":"2026-03-15T01:20:53.843Z","level":"info","message":"Streamer went offline.","extra":{"streamer":"shroud"}}
+{"timestamp":"2026-03-15T01:20:53.846Z","level":"info","message":"Streamer went offline.","extra":{"streamer":"riotgames"}}
+{"timestamp":"2026-03-15T01:22:10.615Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env.example"}}
+{"timestamp":"2026-03-15T01:22:10.620Z","level":"info","message":"Configuration is valid.","extra":{"streamers":["sumichh","wooflyaa"],"telegramEnabled":true,"discordEnabled":true}}
+{"timestamp":"2026-03-15T01:23:22.623Z","level":"info","message":"Received SIGINT, shutting down."}
+{"timestamp":"2026-03-15T01:23:25.093Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Twitch Stream Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env.example"}}
+{"timestamp":"2026-03-15T01:23:26.109Z","level":"info","message":"Twitch app token refreshed."}
+{"timestamp":"2026-03-15T01:23:26.445Z","level":"info","message":"Loaded streamers.","extra":{"count":2,"streamers":["sumichh","wooflyaa"],"mockMode":false}}
+{"timestamp":"2026-03-15T01:24:57.512Z","level":"info","message":"Live stream detected.","extra":{"streamer":"sumichh","streamId":"315651539028","title":"123"}}
+{"timestamp":"2026-03-15T01:24:59.185Z","level":"info","message":"Live alert sent.","extra":{"streamer":"sumichh","channel":"telegram","streamId":"315651539028"}}
+{"timestamp":"2026-03-15T01:24:59.186Z","level":"info","message":"Live alert sent.","extra":{"streamer":"sumichh","channel":"discord","streamId":"315651539028"}}
+{"timestamp":"2026-03-15T01:28:45.982Z","level":"info","message":"Streamer went offline.","extra":{"streamer":"sumichh"}}
+{"timestamp":"2026-03-15T01:31:56.294Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Wooflyaa Live Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env.example"}}
+{"timestamp":"2026-03-15T01:31:56.298Z","level":"info","message":"Configuration is valid.","extra":{"streamers":["sumichh","wooflyaa"],"telegramEnabled":true,"discordEnabled":true}}
+{"timestamp":"2026-03-15T01:32:12.231Z","level":"info","message":"Received SIGINT, shutting down."}
+{"timestamp":"2026-03-15T01:32:46.299Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Wooflyaa Live Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env.example"}}
+{"timestamp":"2026-03-15T01:32:46.304Z","level":"info","message":"Configuration is valid.","extra":{"streamers":["wooflyaa"],"telegramEnabled":true,"discordEnabled":true}}
+{"timestamp":"2026-03-15T01:33:34.524Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Wooflyaa Live Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env.example"}}
+{"timestamp":"2026-03-15T01:33:34.529Z","level":"info","message":"Configuration is valid.","extra":{"streamers":["sumichh","wooflyaa"],"telegramEnabled":true,"discordEnabled":true}}
+{"timestamp":"2026-03-15T01:33:43.732Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Wooflyaa Live Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env.example"}}
+{"timestamp":"2026-03-15T01:33:44.728Z","level":"info","message":"Twitch app token refreshed."}
+{"timestamp":"2026-03-15T01:33:45.080Z","level":"info","message":"Loaded streamers.","extra":{"count":2,"streamers":["sumichh","wooflyaa"],"mockMode":false}}
+{"timestamp":"2026-03-15T01:34:30.787Z","level":"info","message":"Live stream detected.","extra":{"streamer":"sumichh","streamId":"315651561812","title":"123"}}
+{"timestamp":"2026-03-15T01:34:32.229Z","level":"info","message":"Live alert sent.","extra":{"streamer":"sumichh","channel":"telegram","streamId":"315651561812"}}
+{"timestamp":"2026-03-15T01:34:32.230Z","level":"info","message":"Live alert sent.","extra":{"streamer":"sumichh","channel":"discord","streamId":"315651561812"}}
+{"timestamp":"2026-03-15T01:35:17.596Z","level":"info","message":"Streamer went offline.","extra":{"streamer":"sumichh"}}
+{"timestamp":"2026-03-15T01:36:02.955Z","level":"info","message":"Live stream detected.","extra":{"streamer":"sumichh","streamId":"315651567572","title":"тест"}}
+{"timestamp":"2026-03-15T01:36:03.531Z","level":"info","message":"Live alert sent.","extra":{"streamer":"sumichh","channel":"telegram","streamId":"315651567572"}}
+{"timestamp":"2026-03-15T01:36:03.532Z","level":"info","message":"Live alert sent.","extra":{"streamer":"sumichh","channel":"discord","streamId":"315651567572"}}
+{"timestamp":"2026-03-15T01:36:48.889Z","level":"info","message":"Live stream detected.","extra":{"streamer":"sumichh","streamId":"315651568084","title":"тест"}}
+{"timestamp":"2026-03-15T01:36:49.253Z","level":"info","message":"Live alert sent.","extra":{"streamer":"sumichh","channel":"telegram","streamId":"315651568084"}}
+{"timestamp":"2026-03-15T01:36:49.256Z","level":"info","message":"Live alert sent.","extra":{"streamer":"sumichh","channel":"discord","streamId":"315651568084"}}
+{"timestamp":"2026-03-15T01:37:29.630Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Wooflyaa Live Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env.example"}}
+{"timestamp":"2026-03-15T01:37:29.634Z","level":"info","message":"Configuration is valid.","extra":{"streamers":["wooflyaa"],"telegramEnabled":true,"discordEnabled":true}}
+{"timestamp":"2026-03-15T01:37:34.618Z","level":"info","message":"Streamer went offline.","extra":{"streamer":"sumichh"}}
+{"timestamp":"2026-03-15T01:38:19.916Z","level":"info","message":"Received SIGINT, shutting down."}
+{"timestamp":"2026-03-15T01:53:23.486Z","level":"info","message":"Starting Twitch notifier.","extra":{"appName":"Wooflyaa Live Notifier","mockMode":false,"pollIntervalMs":45000,"streamersConfigPath":"C:\\Users\\Angels\\Desktop\\coedx\\config\\streamers.json","envFilePath":"C:\\Users\\Angels\\Desktop\\coedx\\.env"}}
+{"timestamp":"2026-03-15T01:53:23.490Z","level":"info","message":"Configuration is valid.","extra":{"streamers":["wooflyaa"],"telegramEnabled":true,"discordEnabled":true}}
