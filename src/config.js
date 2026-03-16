@@ -141,6 +141,7 @@ function loadConfig() {
       enabled: readBoolean("ENABLE_DISCORD", false),
       webhookUrl: readString("DISCORD_WEBHOOK_URL"),
       username: readString("DISCORD_USERNAME", "Twitch Live Alerts"),
+      mentionEveryone: readBoolean("DISCORD_MENTION_EVERYONE", true),
       avatarUrl: readString(
         "DISCORD_AVATAR_URL",
         "https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png"
