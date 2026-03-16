@@ -65,8 +65,9 @@ class DiscordNotifier {
       body: {
         username: this.config.username,
         avatar_url: this.config.avatarUrl,
+        content: this.config.mentionEveryone ? "@everyone" : undefined,
         allowed_mentions: {
-          parse: []
+          parse: this.config.mentionEveryone ? ["everyone"] : []
         },
         embeds: [this.buildEmbed(payload)]
       },
